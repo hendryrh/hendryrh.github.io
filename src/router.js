@@ -26,7 +26,7 @@ export default new Router({
       },
       {           
         name: 'About',           
-        path: '/About',           
+        path: '',           
         component: loadViewDashboard('About')         
       }            
       ]
